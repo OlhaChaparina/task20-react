@@ -1,3 +1,26 @@
+.navigation{
+  padding: 20px 30px;
+  background-color: #ff4055;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navigation a {
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+.navigation a:hover{
+  text-decoration: underline;
+}
+
+body{
+  font-family: 'Bagel Fat One', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
 .App {
   text-align: center;
 }
